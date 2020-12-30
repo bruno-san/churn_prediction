@@ -317,10 +317,15 @@ Multivariate analysis of numerical attribues made with pearson's correlation met
 Highlights:
 
 amount_prod x balance = 0.69
+
 balance x num_of_products = -0.31
+
 cred_prod x balance = 0.32
+
 amount x num_of_products = -0.21
+
 amount x cred_prod = 0.22
+
 cred_prod x bal_ten_year = 0.21
 
 All the other highest correlations are among the new features and the original ones.
